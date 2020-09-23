@@ -1,0 +1,1 @@
+This is a basic encryption and communication system for internet-based programs... it can easily be transported into other applications.
